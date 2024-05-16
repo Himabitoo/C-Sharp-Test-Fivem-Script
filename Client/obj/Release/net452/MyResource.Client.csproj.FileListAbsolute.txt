@@ -1,0 +1,9 @@
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Client\bin\Release\net452\MyResource.Client.net.dll
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Client\bin\Release\net452\CitizenFX.Core.Client.dll
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Client\obj\Release\net452\MyResource.Client.csproj.AssemblyReference.cache
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Client\obj\Release\net452\MyResource.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Client\obj\Release\net452\MyResource.Client.AssemblyInfoInputs.cache
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Client\obj\Release\net452\MyResource.Client.AssemblyInfo.cs
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Client\obj\Release\net452\MyResource.Client.csproj.CoreCompileInputs.cache
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Client\obj\Release\net452\MyResour.4D91E1AE.Up2Date
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Client\obj\Release\net452\MyResource.Client.net.dll

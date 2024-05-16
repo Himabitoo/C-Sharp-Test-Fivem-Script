@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFQC2zSAJu4thL4rigEL3iQLG2zQ32R3kaqCask0daIYqMfKy2dCKpoF1OyXwV1XeIGO0MwtiHh3ReZBMVRliA==",
+  "success": true,
+  "projectFilePath": "C:\\GameServer\\NazuDev\\txData\\QBCoreFramework_EDDE0C.base\\resources\\[Nazu]\\MyResource\\Client\\MyResource.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kjun9\\.nuget\\packages\\citizenfx.core.client\\1.0.8172\\citizenfx.core.client.1.0.8172.nupkg.sha512",
+    "C:\\Users\\kjun9\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\kjun9\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512",
+    "C:\\Users\\kjun9\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\bin\Release\netstandard2.0\MyResource.Server.deps.json
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\bin\Release\netstandard2.0\MyResource.Server.net.dll
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\bin\Release\netstandard2.0\MyResource.Server.net.pdb
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\obj\Release\netstandard2.0\MyResource.Server.csproj.AssemblyReference.cache
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\obj\Release\netstandard2.0\MyResource.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\obj\Release\netstandard2.0\MyResource.Server.AssemblyInfoInputs.cache
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\obj\Release\netstandard2.0\MyResource.Server.AssemblyInfo.cs
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\obj\Release\netstandard2.0\MyResource.Server.csproj.CoreCompileInputs.cache
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\obj\Release\netstandard2.0\MyResource.Server.net.dll
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\obj\Release\netstandard2.0\MyResource.Server.net.pdb

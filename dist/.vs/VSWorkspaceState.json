@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Client",
+    "\\Client\\bin",
+    "\\Client\\bin\\Release",
+    "\\Client\\bin\\Release\\net452",
+    "\\Client\\bin\\Release\\net452\\publish"
+  ],
+  "SelectedNode": "\\Client\\bin\\Release\\net452\\publish\\CitizenFX.Core.Client.dll",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,4 @@
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\bin\Release\netstandard2.0\publish\MyResource.Server.net.dll
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\bin\Release\netstandard2.0\publish\MyResource.Server.deps.json
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\bin\Release\netstandard2.0\publish\MyResource.Server.net.pdb
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Server\bin\Release\netstandard2.0\publish\CitizenFX.Core.Server.dll

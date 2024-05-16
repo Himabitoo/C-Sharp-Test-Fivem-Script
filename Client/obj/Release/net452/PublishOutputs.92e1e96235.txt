@@ -1,0 +1,2 @@
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Client\bin\Release\net452\publish\MyResource.Client.net.dll
+C:\GameServer\NazuDev\txData\QBCoreFramework_EDDE0C.base\resources\[Nazu]\MyResource\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll
